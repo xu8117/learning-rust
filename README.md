@@ -174,7 +174,7 @@ VSCode 插件列表（欢迎大家补充）：
 
 ## Rust 夜读的日常技术讨论总结
 
-- [Rust 的声明周期？Rust 应用场景是什么？有哪些公司在使用？如何学习？](./discuss/2018-08-11-lifetime-in-rust.md)
+- [Rust 的生命周期？Rust 应用场景是什么？有哪些公司在使用？如何学习？](./discuss/2018-08-11-lifetime-in-rust.md)
 
 ----
 
